@@ -1,6 +1,6 @@
 # Phong-Light
 - 实验 Shading
-
+```txt
 建议阅读资料：
 （1）	课本第6章
 
@@ -42,3 +42,4 @@ H=(L+V)/|L+V|,
 The “max” functions will make
 sure that the light is not shining in the back-side of the face. If this value goes
 beyond 1, it is clamped to 1 (lighting has been saturated at that point).
+```
